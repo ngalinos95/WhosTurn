@@ -1,0 +1,10 @@
+FoodieCalc.xcodeproj/xcuserdata/galinosn.xcuserdatad/xcschemes/xcschememanagement.plist
+FoodieCalc.xcodeproj/project.xcworkspace/xcuserdata/*
+GoogleService-Info.plist
+.DS_Store
+xcschememanagement.plist
+*.xcworkspacedata
+*.xcuserstate
+*.xcscheme
+*.xcbkptlist
+
